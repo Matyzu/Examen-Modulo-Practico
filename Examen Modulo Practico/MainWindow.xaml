@@ -27,11 +27,18 @@
         </StackPanel>
         <!--Panel Pincipal-->
         <Grid Grid.Column="1" Background="#2D2D30">
-            <TextBlock
-                Text="Bienvenido a nuestro Explorador Electronico"
-                Foreground="White"
-                FontSize="30"
-                Margin="20"/>
+            <StackPanel Margin="20">
+                <TextBlock
+                    Text="Bienvenido a nuestro Explorador Electronico"
+                    Foreground="White"
+                    FontSize="30"/>
+                <TextBlock
+                    Width="1000"
+                    Height="25"
+                    Margin="20, 30, 0, 0"
+                    Text="Buscar componentes..."
+                    Background="White"/>
+            </StackPanel>
         </Grid>
             
 
