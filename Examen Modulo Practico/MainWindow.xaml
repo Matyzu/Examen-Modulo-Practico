@@ -33,7 +33,7 @@
                     Foreground="White"
                     FontSize="30"/>
                 <TextBlock
-                    Width="1000"
+                    Width="1001"
                     Height="25"
                     Margin="20, 30, 0, 0"
                     Text="Buscar componentes..."
