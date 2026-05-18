@@ -20,10 +20,11 @@
                 FontSize="20"
                 Margin="20"/>
             <Button Content="Inicio" Margin="10"/>
-            <Button Content="Resistencias" Margin="10"/>
-            <Button Content="Capacitores" Margin="10"/>
-            <Button Content="LEDs" Margin="10"/>
-            <Button Content="Sensores" Margin="10"/>
+            <Button Content="Pasivo" Margin="10"/>
+            <Button Content="Activo" Margin="10"/>
+            <Button Content="Entrada" Margin="10"/>
+            <Button Content="Salida" Margin="10"/>
+            <Button Content="Alimentacion" Margin="10"/>
         </StackPanel>
         <!--Panel Pincipal-->
         <Grid Grid.Column="1" Background="#2D2D30">
