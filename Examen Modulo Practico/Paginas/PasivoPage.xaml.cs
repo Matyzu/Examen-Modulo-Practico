@@ -14,13 +14,15 @@ using System.Windows.Shapes;
 namespace Examen_Modulo_Practico.Paginas
 {
     /// <summary>
-    /// Lógica de interacción para Resistencias.xaml
+    /// Lógica de interacción para PasivoPage.xaml
     /// </summary>
-    public partial class Resistencias : Page
+    public partial class PasivoPage : Page
     {
-        public Resistencias()
+        public PasivoPage()
         {
             InitializeComponent();
         }
+
+        
     }
 }
