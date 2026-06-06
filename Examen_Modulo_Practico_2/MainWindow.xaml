@@ -1,0 +1,125 @@
+<Window x:Class="Examen_Modulo_Practico_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Component Explorer"
+        Height="720"
+        MinHeight="560"
+        Width="1180"
+        MinWidth="900"
+        Background="#101216"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="MenuButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="#D7DEE8"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Padding" Value="16,12"/>
+            <Setter Property="Margin" Value="12,4"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="ButtonBorder"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="1"
+                                CornerRadius="8">
+                            <ContentPresenter Margin="{TemplateBinding Padding}"
+                                              HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="ButtonBorder" Property="Background" Value="#232A35"/>
+                                <Setter TargetName="ButtonBorder" Property="BorderBrush" Value="#354155"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="ButtonBorder" Property="Background" Value="#2E7DFF"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="260"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border x:Name="PanelLateral"
+                Background="#171A21"
+                BorderBrush="#252B36"
+                BorderThickness="0,0,1,0">
+            <DockPanel>
+                <StackPanel DockPanel.Dock="Top" Margin="18,24,18,18">
+                    <TextBlock Text="Component Explorer"
+                               Foreground="White"
+                               FontSize="23"
+                               FontWeight="Bold"
+                               TextWrapping="Wrap"/>
+                    <TextBlock Text="Wiki de componentes electronicos"
+                               Foreground="#8D99AA"
+                               FontSize="13"
+                               Margin="0,6,0,20"
+                               TextWrapping="Wrap"/>
+                </StackPanel>
+
+                <StackPanel>
+                    <Button x:Name="b_Inicio"
+                            Content="Inicio"
+                            Style="{StaticResource MenuButtonStyle}"
+                            Click="b_Inicio_Click"/>
+                    <Button x:Name="b_Pasivos"
+                            Content="Componentes pasivos"
+                            Style="{StaticResource MenuButtonStyle}"
+                            Click="b_Pasivos_Click"/>
+                    <Button x:Name="b_Activos"
+                            Content="Componentes activos"
+                            Style="{StaticResource MenuButtonStyle}"
+                            Click="b_Activos_Click"/>
+                    <Button x:Name="b_Entradas"
+                            Content="Entrada"
+                            Style="{StaticResource MenuButtonStyle}"
+                            Click="b_Entradas_Click"/>
+                    <Button x:Name="b_Salidas"
+                            Content="Salida"
+                            Style="{StaticResource MenuButtonStyle}"
+                            Click="b_Salidas_Click"/>
+                    <Button x:Name="b_Alimentacion"
+                            Content="Alimentacion"
+                            Style="{StaticResource MenuButtonStyle}"
+                            Click="b_Alimentacion_Click"/>
+                </StackPanel>
+
+                <Border DockPanel.Dock="Bottom"
+                        Margin="18"
+                        Padding="14"
+                        CornerRadius="10"
+                        Background="#11141A"
+                        BorderBrush="#252B36"
+                        BorderThickness="1">
+                    <TextBlock Text="Examen final - Modulo practico"
+                               Foreground="#8D99AA"
+                               FontSize="12"
+                               TextWrapping="Wrap"/>
+                </Border>
+            </DockPanel>
+        </Border>
+
+        <Frame x:Name="MainFrame"
+               Grid.Column="1"
+               Background="#101216"
+               NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

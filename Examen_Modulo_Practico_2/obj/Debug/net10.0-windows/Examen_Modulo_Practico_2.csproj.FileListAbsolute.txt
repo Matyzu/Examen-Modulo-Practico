@@ -1,0 +1,347 @@
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\build-validation\Examen_Modulo_Practico_2.exe
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\build-validation\Examen_Modulo_Practico_2.deps.json
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\build-validation\Examen_Modulo_Practico_2.runtimeconfig.json
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\build-validation\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\build-validation\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\adaptador-ac-dc.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\amplificador-lm386.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\amplificador-operacional.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\bateria-9-v.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\buzzer-activo.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\buzzer-pasivo.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-ceramico.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-de-filtro.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-electrolitico.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\celda-li-ion-18650.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\circuito-integrado-555.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\contador-cd4017.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\convertidor-boost-mt3608.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\cristal-de-cuarzo.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-de-proteccion.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-rectificador.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-zener.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\display-de-7-segmentos.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-l293d.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-max7219.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-uln2003.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\esp32.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\fuente-de-protoboard-mb102.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\fusible.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\inductor.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\interruptor.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\joystick-analogico.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\ldr.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\led-indicador.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\led.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\microcontrolador-atmega328p.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\microfono-electret.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\modulo-cargador-tp4056.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\mosfet-canal-n.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\motor-dc.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\multiplexor-cd4051.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\optoacoplador.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pantalla-lcd-16x2.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pantalla-oled-i2c.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\portapilas-aa.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\potenciometro.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pulsador.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\raspberry-pi-pico-rp2040.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\registro-74hc595.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\regulador-7805.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\regulador-buck-lm2596.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\rele.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\resistencia.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-de-gas-mq-2.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-de-temperatura-lm35.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-dht11.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-pir.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-ultrasonico-hc-sr04.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\servomotor.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\teclado-matricial-4x4.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\termistor-ntc.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\tira-led-rgb.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\transistor-bjt-npn.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\transistor-bjt-pnp.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\trimmer.png
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.exe
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.deps.json
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.runtimeconfig.json
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Activos.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Alimentacion.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ComponentDetailPage.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Entradas.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Inicio.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Pasivos.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Salidas.baml
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Activos.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Alimentacion.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ComponentDetailPage.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Entradas.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Inicio.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Pasivos.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Salidas.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_Content.g.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_MarkupCompile.cache
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.g.resources
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.AssemblyInfoInputs.cache
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.AssemblyInfo.cs
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.csproj.CoreCompileInputs.cache
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\refint\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.genruntimeconfig.cache
+C:\Users\USER-ASUS\source\repos\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ref\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\adaptador-ac-dc.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\amplificador-lm386.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\amplificador-operacional.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\bateria-9-v.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\buzzer-activo.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\buzzer-pasivo.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-ceramico.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-de-filtro.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-electrolitico.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\celda-li-ion-18650.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\circuito-integrado-555.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\contador-cd4017.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\convertidor-boost-mt3608.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\cristal-de-cuarzo.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-de-proteccion.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-rectificador.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-zener.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\display-de-7-segmentos.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-l293d.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-max7219.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-uln2003.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\esp32.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\fuente-de-protoboard-mb102.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\fusible.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\inductor.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\interruptor.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\joystick-analogico.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\ldr.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\led-indicador.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\led.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\microcontrolador-atmega328p.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\microfono-electret.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\modulo-cargador-tp4056.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\mosfet-canal-n.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\motor-dc.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\multiplexor-cd4051.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\optoacoplador.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pantalla-lcd-16x2.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pantalla-oled-i2c.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\portapilas-aa.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\potenciometro.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pulsador.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\raspberry-pi-pico-rp2040.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\registro-74hc595.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\regulador-7805.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\regulador-buck-lm2596.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\rele.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\resistencia.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-de-gas-mq-2.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-de-temperatura-lm35.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-dht11.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-pir.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-ultrasonico-hc-sr04.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\servomotor.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\teclado-matricial-4x4.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\termistor-ntc.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\tira-led-rgb.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\transistor-bjt-npn.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\transistor-bjt-pnp.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\trimmer.png
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.exe
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.deps.json
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.runtimeconfig.json
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Activos.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Alimentacion.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ComponentDetailPage.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Entradas.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Inicio.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Pasivos.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Salidas.baml
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Activos.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Alimentacion.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ComponentDetailPage.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Entradas.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Inicio.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Pasivos.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Salidas.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_Content.g.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_MarkupCompile.cache
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.g.resources
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.AssemblyInfoInputs.cache
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.AssemblyInfo.cs
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.csproj.CoreCompileInputs.cache
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\refint\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.genruntimeconfig.cache
+C:\Users\USER-ASUS\Tareas\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ref\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\adaptador-ac-dc.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\amplificador-lm386.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\amplificador-operacional.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\bateria-9-v.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\buzzer-activo.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\buzzer-pasivo.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-ceramico.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-de-filtro.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\capacitor-electrolitico.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\celda-li-ion-18650.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\circuito-integrado-555.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\contador-cd4017.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\convertidor-boost-mt3608.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\cristal-de-cuarzo.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-de-proteccion.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-rectificador.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\diodo-zener.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\display-de-7-segmentos.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-l293d.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-max7219.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\driver-uln2003.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\esp32.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\fuente-de-protoboard-mb102.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\fusible.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\inductor.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\interruptor.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\joystick-analogico.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\ldr.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\led-indicador.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\led.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\microcontrolador-atmega328p.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\microfono-electret.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\modulo-cargador-tp4056.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\mosfet-canal-n.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\motor-dc.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\multiplexor-cd4051.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\optoacoplador.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pantalla-lcd-16x2.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pantalla-oled-i2c.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\portapilas-aa.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\potenciometro.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\pulsador.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\raspberry-pi-pico-rp2040.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\registro-74hc595.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\regulador-7805.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\regulador-buck-lm2596.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\rele.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\resistencia.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-de-gas-mq-2.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-de-temperatura-lm35.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-dht11.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-pir.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\sensor-ultrasonico-hc-sr04.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\servomotor.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\teclado-matricial-4x4.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\termistor-ntc.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\tira-led-rgb.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\transistor-bjt-npn.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\transistor-bjt-pnp.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Assets\Components\trimmer.png
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.exe
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.deps.json
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.runtimeconfig.json
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Activos.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Alimentacion.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ComponentDetailPage.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Entradas.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Inicio.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Pasivos.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Salidas.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Activos.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Alimentacion.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ComponentDetailPage.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Entradas.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Inicio.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Pasivos.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Salidas.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_Content.g.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_MarkupCompile.cache
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.g.resources
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.AssemblyInfoInputs.cache
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.AssemblyInfo.cs
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.csproj.CoreCompileInputs.cache
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\refint\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.pdb
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2.genruntimeconfig.cache
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\ref\Examen_Modulo_Practico_2.dll
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Adaptador AC-DC.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Amplificador LM386.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Amplificador Operacional.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Bateria 9V.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\BUzzer activo.webp
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Buzzer Pasivo.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Capacitor Ceramico.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Capacitor de Filtro.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Capacitor Electrolitico.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Celda Li-ion 18650.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Circuito Integrado 555.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Contador CD4017.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Convertidor Boost MT3608.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Cristal de Cuarzo.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Diodo de proteccion.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Diodo Rectificador.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Diodo Zener.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Display de 7 segmentos.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Driver L293D.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Driver MAX7219.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Driver ULN2003.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\ESP32.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Fuente de protoboard MB102.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Fusible.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Inductor.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Interruptor.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Joystick Analogico.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\LDR.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\LED indicador.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\LED.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Microcontrolador Atmega328P.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Microfono Electret.webp
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Modulo cargador RP4056.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Mosfet Canal N.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Motor DC.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Multiplexor CD4051.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Optoacoplador.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Pantalla LCD 16x2.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Pantalla OLED I2C.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Portapilas AA.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Potenciometro.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Pulsador.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Raspberry Pi Pico RP2040.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Registro 74HC595.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Regulador 7805.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Regulador Buck LM2596.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Rele.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Resistencia.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Sensor de gas MQ-2.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Sensor de temperatura LM35.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Sensor DHT11.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Sensor PIR HC-SR501.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\ServoMotor.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Teclado Matricial 4x4.webp
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Termistor NTC.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Tira LED RGB.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Transistor BJT NPN.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Transistor BJT PNP.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Trimmer.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Sensor ultrasonico HC-SR04.jpg
