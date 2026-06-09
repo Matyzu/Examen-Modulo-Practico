@@ -1,0 +1,21 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Backgrounds -->
+    <SolidColorBrush x:Key="WindowBackground" Color="#101216"/>
+    <SolidColorBrush x:Key="PanelBackground" Color="#0E1117"/>
+    <SolidColorBrush x:Key="CardBackground" Color="#171C24"/>
+    <SolidColorBrush x:Key="CardBorder" Color="#283242"/>
+    <SolidColorBrush x:Key="PopupBackground" Color="#0B0E12"/>
+
+    <!-- Foregrounds -->
+    <SolidColorBrush x:Key="ForegroundPrimary" Color="#E5E7EB"/>
+    <SolidColorBrush x:Key="ForegroundSecondary" Color="#AAB4C3"/>
+    <SolidColorBrush x:Key="AccentBrush" Color="#62D9FF"/>
+
+    <!-- Accent / borders -->
+    <SolidColorBrush x:Key="BorderBrushMain" Color="#324055"/>
+    <SolidColorBrush x:Key="CardHoverBackground" Color="#1E2632"/>
+    <SolidColorBrush x:Key="CardHoverBorder" Color="#3B82F6"/>
+
+</ResourceDictionary>

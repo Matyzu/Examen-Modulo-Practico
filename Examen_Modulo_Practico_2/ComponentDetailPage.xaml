@@ -5,11 +5,11 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d"
       Title="Detalles"
-      Background="#101216">
+      Background="{DynamicResource WindowBackground}">
     <Page.Resources>
         <Style x:Key="InfoBlockStyle" TargetType="Border">
-            <Setter Property="Background" Value="#171C24"/>
-            <Setter Property="BorderBrush" Value="#283242"/>
+            <Setter Property="Background" Value="{DynamicResource CardBackground}"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource CardBorder}"/>
             <Setter Property="BorderThickness" Value="1"/>
             <Setter Property="CornerRadius" Value="8"/>
             <Setter Property="Padding" Value="18"/>
@@ -22,9 +22,9 @@
             <Setter Property="MinHeight" Value="150"/>
         </Style>
         <Style x:Key="BackButtonStyle" TargetType="Button">
-            <Setter Property="Background" Value="#1E2632"/>
-            <Setter Property="Foreground" Value="White"/>
-            <Setter Property="BorderBrush" Value="#3B82F6"/>
+            <Setter Property="Background" Value="{DynamicResource CardHoverBackground}"/>
+            <Setter Property="Foreground" Value="{DynamicResource ForegroundPrimary}"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource CardHoverBorder}"/>
             <Setter Property="BorderThickness" Value="1"/>
             <Setter Property="Padding" Value="14,9"/>
             <Setter Property="Cursor" Value="Hand"/>
@@ -47,25 +47,25 @@
                     Click="Back_Click"/>
 
             <TextBlock Text="{Binding Name}"
-                       Foreground="White"
+                       Foreground="{DynamicResource ForegroundPrimary}"
                        FontSize="38"
                        FontWeight="Bold"
                        Margin="0,28,0,2"
                        TextWrapping="Wrap"/>
             <TextBlock Text="{Binding Section}"
-                       Foreground="#62D9FF"
+                       Foreground="{DynamicResource AccentBrush}"
                        FontSize="14"
                        FontWeight="SemiBold"
                        Margin="0,0,0,18"/>
 
-            <Border Background="#0E1117"
-                    BorderBrush="#273142"
+            <Border Background="{DynamicResource PanelBackground}"
+                    BorderBrush="{DynamicResource BorderBrushMain}"
                     BorderThickness="1"
                     CornerRadius="8"
                     Padding="18"
                     Margin="0,0,16,18">
                 <TextBlock Text="Mini datasheet educativo: datos tecnicos organizados para reconocer el componente, comparar valores importantes, revisar terminales, evitar conexiones incorrectas y seleccionar alternativas comerciales antes de montar una practica real."
-                           Foreground="#AAB4C3"
+                           Foreground="{DynamicResource ForegroundSecondary}"
                            FontSize="15"
                            TextWrapping="Wrap"/>
             </Border>
@@ -74,11 +74,11 @@
                     <Border Style="{StaticResource SheetCardStyle}">
                         <StackPanel>
                             <TextBlock Text="Descripcion tecnica"
-                                       Foreground="#7DD3FC"
+                                       Foreground="{DynamicResource AccentBrush}"
                                        FontSize="20"
                                        FontWeight="Bold"/>
                             <TextBlock Text="{Binding TechnicalDetailsExtended}"
-                                       Foreground="#AAB4C3"
+                                       Foreground="{DynamicResource ForegroundSecondary}"
                                        FontSize="14"
                                        LineHeight="21"
                                        Margin="0,8,0,0"
@@ -149,12 +149,12 @@
                     <Border Style="{StaticResource SheetCardStyle}">
                         <StackPanel>
                             <TextBlock Text="Imagen del componente"
-                                       Foreground="#62D9FF"
+                                       Foreground="{DynamicResource AccentBrush}"
                                        FontSize="18"
                                        FontWeight="Bold"/>
                             <Border Height="224"
-                                    Background="#0E1117"
-                                    BorderBrush="#263141"
+                                    Background="{DynamicResource PanelBackground}"
+                                    BorderBrush="{DynamicResource BorderBrushMain}"
                                     BorderThickness="1"
                                     CornerRadius="8"
                                     Margin="0,14,0,10">
@@ -163,7 +163,7 @@
                                        Margin="12"/>
                             </Border>
                             <TextBlock Text="Imagen referencial para reconocer el componente antes de consultar sus datos tecnicos."
-                                       Foreground="#8D99AA"
+                                       Foreground="{DynamicResource ForegroundSecondary}"
                                        FontSize="12"
                                        TextWrapping="Wrap"/>
                         </StackPanel>
@@ -172,12 +172,12 @@
                     <Border Style="{StaticResource SheetCardStyle}">
                         <StackPanel>
                             <TextBlock Text="Imagen de simulacion (datasheet)"
-                                       Foreground="#62D9FF"
+                                       Foreground="{DynamicResource AccentBrush}"
                                        FontSize="18"
                                        FontWeight="Bold"/>
                             <Border Height="224"
-                                    Background="#0E1117"
-                                    BorderBrush="#263141"
+                                    Background="{DynamicResource PanelBackground}"
+                                    BorderBrush="{DynamicResource BorderBrushMain}"
                                     BorderThickness="1"
                                     CornerRadius="8"
                                     Margin="0,14,0,10">
@@ -186,7 +186,7 @@
                                        Margin="12"/>
                             </Border>
                             <TextBlock Text="Imagen tomada desde la carpeta Simulacion. Si no existe, se muestra la imagen esquematica por defecto."
-                                       Foreground="#8D99AA"
+                                       Foreground="{DynamicResource ForegroundSecondary}"
                                        FontSize="12"
                                        TextWrapping="Wrap"/>
                         </StackPanel>

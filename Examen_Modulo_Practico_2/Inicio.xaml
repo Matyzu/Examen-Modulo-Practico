@@ -5,11 +5,11 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d"
       Title="Inicio"
-      Background="#101216">
+      Background="{DynamicResource WindowBackground}">
     <Page.Resources>
         <Style x:Key="CategoryButtonStyle" TargetType="Button">
-            <Setter Property="Background" Value="#171C24"/>
-            <Setter Property="BorderBrush" Value="#283242"/>
+            <Setter Property="Background" Value="{DynamicResource CardBackground}"/>
+            <Setter Property="BorderBrush" Value="{DynamicResource CardBorder}"/>
             <Setter Property="BorderThickness" Value="1"/>
             <Setter Property="Cursor" Value="Hand"/>
             <Setter Property="Padding" Value="0"/>
@@ -26,11 +26,11 @@
                         </Border>
                         <ControlTemplate.Triggers>
                             <Trigger Property="IsMouseOver" Value="True">
-                                <Setter TargetName="Card" Property="Background" Value="#1E2632"/>
-                                <Setter TargetName="Card" Property="BorderBrush" Value="#3B82F6"/>
+                                <Setter TargetName="Card" Property="Background" Value="{DynamicResource CardHoverBackground}"/>
+                                <Setter TargetName="Card" Property="BorderBrush" Value="{DynamicResource CardHoverBorder}"/>
                             </Trigger>
                             <Trigger Property="IsPressed" Value="True">
-                                <Setter TargetName="Card" Property="Background" Value="#24344A"/>
+                                <Setter TargetName="Card" Property="Background" Value="{DynamicResource CardHoverBackground}"/>
                             </Trigger>
                         </ControlTemplate.Triggers>
                     </ControlTemplate>
@@ -41,11 +41,7 @@
 
     <Grid>
         <Canvas IsHitTestVisible="False">
-            <Ellipse Width="5" Height="5" Fill="#62D9FF" Opacity="0.55" Canvas.Left="64" Canvas.Top="42"/>
-            <Ellipse Width="3" Height="3" Fill="#A7F3D0" Opacity="0.6" Canvas.Left="238" Canvas.Top="76"/>
-            <Ellipse Width="4" Height="4" Fill="#FDE68A" Opacity="0.5" Canvas.Left="612" Canvas.Top="48"/>
-            <Ellipse Width="6" Height="6" Fill="#C4B5FD" Opacity="0.45" Canvas.Left="772" Canvas.Top="124"/>
-            <Ellipse Width="3" Height="3" Fill="#FDA4AF" Opacity="0.55" Canvas.Left="116" Canvas.Top="292"/>
+            <Ellipse Width="5" Height="5" Fill="{DynamicResource AccentBrush}" Opacity="0.55" Canvas.Left="64" Canvas.Top="42"/>
         </Canvas>
 
     <ScrollViewer VerticalScrollBarVisibility="Auto"
@@ -59,23 +55,23 @@
 
                 <StackPanel Grid.Column="0" Margin="0,0,24,0">
                     <TextBlock Text="Categorias"
-                               Foreground="White"
+                               Foreground="{DynamicResource ForegroundPrimary}"
                                FontSize="36"
                                FontWeight="Bold"
                                TextWrapping="Wrap"/>
                     <TextBlock Text="Selecciona una seccion para consultar componentes electronicos, ver imagenes y abrir fichas tecnicas educativas."
-                               Foreground="#AAB4C3"
+                               Foreground="{DynamicResource ForegroundSecondary}"
                                FontSize="15"
                                Margin="0,8,0,0"
                                TextWrapping="Wrap"/>
                     <StackPanel Margin="0,12,0,0">
-                        <Border Background="#0E1117" BorderBrush="#324055" BorderThickness="2" CornerRadius="8" Padding="4" Width="360" Height="36">
+                        <Border Background="{DynamicResource PanelBackground}" BorderBrush="{DynamicResource BorderBrushMain}" BorderThickness="2" CornerRadius="8" Padding="4" Width="360" Height="36">
                             <TextBox x:Name="SearchBox"
                                      Width="352"
                                      Height="28"
                                      VerticalContentAlignment="Center"
                                      Background="Transparent"
-                                     Foreground="#DDE6F3"
+                                     Foreground="{DynamicResource ForegroundPrimary}"
                                      BorderThickness="0"
                                      Padding="4"
                                      TextChanged="SearchBox_TextChanged"
@@ -88,7 +84,7 @@
                                StaysOpen="False"
                                AllowsTransparency="True"
                                PopupAnimation="Fade">
-                            <Border Background="#0B0E12" BorderBrush="#1F2933" BorderThickness="1" CornerRadius="8">
+                            <Border Background="{DynamicResource PopupBackground}" BorderBrush="{DynamicResource BorderBrushMain}" BorderThickness="1" CornerRadius="8">
                                 <ListBox x:Name="SearchResultsList"
                                          Width="360"
                                          MaxHeight="320"
@@ -97,10 +93,10 @@
                                          SelectionChanged="SearchResultsList_SelectionChanged">
                                     <ListBox.ItemTemplate>
                                         <DataTemplate>
-                                            <Border Padding="8" Background="#0E1117" CornerRadius="6" Margin="0,4,0,4">
+                                            <Border Padding="8" Background="{DynamicResource PanelBackground}" CornerRadius="6" Margin="0,4,0,4">
                                                 <StackPanel>
-                                                    <TextBlock Text="{Binding Type}" Foreground="#62D9FF" FontSize="12"/>
-                                                    <TextBlock Text="{Binding Title}" Foreground="#E5E7EB" FontSize="14" FontWeight="SemiBold"/>
+                                                    <TextBlock Text="{Binding Type}" Foreground="{DynamicResource AccentBrush}" FontSize="12"/>
+                                                    <TextBlock Text="{Binding Title}" Foreground="{DynamicResource ForegroundPrimary}" FontSize="14" FontWeight="SemiBold"/>
                                                 </StackPanel>
                                             </Border>
                                         </DataTemplate>
@@ -108,12 +104,56 @@
                                 </ListBox>
                             </Border>
                         </Popup>
+                        <!-- Theme toggle: animated sun/moon ToggleButton -->
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,8,8,0">
+                            <TextBlock Text="Modo claro" Foreground="{DynamicResource ForegroundSecondary}" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                            <ToggleButton x:Name="ThemeToggle" Width="56" Height="28" VerticalAlignment="Center" Checked="ThemeToggle_Checked" Unchecked="ThemeToggle_Unchecked">
+                                <ToggleButton.Template>
+                                    <ControlTemplate TargetType="ToggleButton">
+                                        <Grid Width="56" Height="28">
+                                            <Border x:Name="Track" CornerRadius="14" Background="{DynamicResource CardBorder}" />
+                                            <Grid Margin="6,0">
+                                                <Grid.ColumnDefinitions>
+                                                    <ColumnDefinition />
+                                                    <ColumnDefinition />
+                                                </Grid.ColumnDefinitions>
+                                                <TextBlock Text="☀" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="{DynamicResource AccentBrush}" FontSize="14"/>
+                                                <TextBlock Text="🌙" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="{DynamicResource ForegroundSecondary}" FontSize="14"/>
+                                            </Grid>
+                                            <Ellipse x:Name="Thumb" Width="20" Height="20" Fill="{DynamicResource AccentBrush}" Margin="4" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+                                                <Ellipse.RenderTransform>
+                                                    <TranslateTransform x:Name="thumbTransform" X="0" />
+                                                </Ellipse.RenderTransform>
+                                            </Ellipse>
+                                        </Grid>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsChecked" Value="True">
+                                                <Trigger.EnterActions>
+                                                    <BeginStoryboard>
+                                                        <Storyboard>
+                                                            <DoubleAnimation Storyboard.TargetName="thumbTransform" Storyboard.TargetProperty="X" To="28" Duration="0:0:0.18" />
+                                                        </Storyboard>
+                                                    </BeginStoryboard>
+                                                </Trigger.EnterActions>
+                                                <Trigger.ExitActions>
+                                                    <BeginStoryboard>
+                                                        <Storyboard>
+                                                            <DoubleAnimation Storyboard.TargetName="thumbTransform" Storyboard.TargetProperty="X" To="0" Duration="0:0:0.18" />
+                                                        </Storyboard>
+                                                    </BeginStoryboard>
+                                                </Trigger.ExitActions>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </ToggleButton.Template>
+                            </ToggleButton>
+                        </StackPanel>
                     </StackPanel>
                 </StackPanel>
 
                 <Border Grid.Column="1"
-                        Background="#151B24"
-                        BorderBrush="#324055"
+                        Background="{DynamicResource CardBackground}"
+                        BorderBrush="{DynamicResource CardBorder}"
                         BorderThickness="1"
                         CornerRadius="8"
                         Padding="16">
@@ -124,8 +164,8 @@
                         </Grid.ColumnDefinitions>
                         <Border Width="96"
                                 Height="96"
-                                Background="#0E1117"
-                                BorderBrush="#283242"
+                                Background="{DynamicResource PanelBackground}"
+                                BorderBrush="{DynamicResource CardBorder}"
                                 BorderThickness="1"
                                 CornerRadius="8"
                                 VerticalAlignment="Top">
@@ -137,19 +177,19 @@
                         <StackPanel Grid.Column="1">
                             <TextBlock x:Name="PreviewTitle"
                                        Text="Pasa el mouse por una categoria"
-                                       Foreground="#E5E7EB"
+                                       Foreground="{DynamicResource ForegroundPrimary}"
                                        FontSize="18"
                                        FontWeight="Bold"
                                        TextWrapping="Wrap"/>
                             <TextBlock x:Name="PreviewDescription"
                                        Text="Aqui aparecera una descripcion rapida, un ejemplo de componente y su imagen."
-                                       Foreground="#AAB4C3"
+                                       Foreground="{DynamicResource ForegroundSecondary}"
                                        FontSize="13"
                                        Margin="0,8,0,0"
                                        TextWrapping="Wrap"/>
                             <TextBlock x:Name="PreviewComponent"
                                        Text="Ejemplo inicial: Resistencia"
-                                       Foreground="#62D9FF"
+                                       Foreground="{DynamicResource AccentBrush}"
                                        FontSize="12"
                                        FontWeight="SemiBold"
                                        TextWrapping="Wrap"/>
@@ -166,7 +206,7 @@
                         Click="Pasivos_Click">
                     <StackPanel Margin="18">
                         <TextBlock Text="Pasivos"
-                                   Foreground="#7DD3FC"
+                                   Foreground="{DynamicResource AccentBrush}"
                                    FontSize="20"
                                    FontWeight="Bold"/>
                         <TextBlock Text="Resistencias, capacitores, inductores y otros componentes que no amplifican senales."
@@ -183,7 +223,7 @@
                         Click="Activos_Click">
                     <StackPanel Margin="18">
                         <TextBlock Text="Activos"
-                                   Foreground="#A7F3D0"
+                                   Foreground="{DynamicResource AccentBrush}"
                                    FontSize="20"
                                    FontWeight="Bold"/>
                         <TextBlock Text="Transistores, diodos, circuitos integrados y elementos capaces de controlar corriente."
@@ -200,7 +240,7 @@
                         Click="Entradas_Click">
                     <StackPanel Margin="18">
                         <TextBlock Text="Entrada"
-                                   Foreground="#FDE68A"
+                                   Foreground="{DynamicResource AccentBrush}"
                                    FontSize="20"
                                    FontWeight="Bold"/>
                         <TextBlock Text="Sensores, pulsadores y modulos que capturan informacion del entorno."
@@ -217,7 +257,7 @@
                         Click="Salidas_Click">
                     <StackPanel Margin="18">
                         <TextBlock Text="Salida"
-                                   Foreground="#FDA4AF"
+                                   Foreground="{DynamicResource AccentBrush}"
                                    FontSize="20"
                                    FontWeight="Bold"/>
                         <TextBlock Text="LEDs, pantallas, motores, buzzers y actuadores que muestran o producen una respuesta."
@@ -234,7 +274,7 @@
                         Click="Alimentacion_Click">
                     <StackPanel Margin="18">
                         <TextBlock Text="Alimentacion"
-                                   Foreground="#C4B5FD"
+                                   Foreground="{DynamicResource AccentBrush}"
                                    FontSize="20"
                                    FontWeight="Bold"/>
                         <TextBlock Text="Fuentes, baterias, reguladores y convertidores que entregan energia estable al circuito."
@@ -245,18 +285,18 @@
                     </StackPanel>
                 </Button>
 
-                <Border Background="#10141C"
-                        BorderBrush="#273142"
+                <Border Background="{DynamicResource PanelBackground}"
+                        BorderBrush="{DynamicResource CardBorder}"
                         BorderThickness="1"
                         CornerRadius="8"
                         Margin="0">
                     <StackPanel Margin="18">
                         <TextBlock Text="Modo wiki"
-                                   Foreground="#E5E7EB"
+                                   Foreground="{DynamicResource ForegroundPrimary}"
                                    FontSize="20"
                                    FontWeight="Bold"/>
                         <TextBlock Text="Cada componente incluye descripcion, uso, simbolo, polaridad, ejemplos y precauciones."
-                                   Foreground="#AAB4C3"
+                                   Foreground="{DynamicResource ForegroundSecondary}"
                                    FontSize="13"
                                    Margin="0,8,0,0"
                                    TextWrapping="Wrap"/>
@@ -265,89 +305,89 @@
             </UniformGrid>
 
             <Border Margin="0,30,0,0"
-                    Background="#0E1117"
-                    BorderBrush="#273142"
+                    Background="{DynamicResource PanelBackground}"
+                    BorderBrush="{DynamicResource CardBorder}"
                     BorderThickness="1"
                     CornerRadius="8"
                     Padding="22">
                 <StackPanel>
                     <TextBlock Text="Objetivo del proyecto"
-                               Foreground="White"
+                               Foreground="{DynamicResource ForegroundPrimary}"
                                FontSize="20"
                                FontWeight="Bold"/>
                     <TextBlock Text="Esta aplicacion esta pensada como una herramienta de consulta para estudiantes de soporte informatico y electronica basica. La idea es encontrar rapido un componente, entender su funcion y saber en que parte de un circuito se utiliza."
-                               Foreground="#AAB4C3"
+                               Foreground="{DynamicResource ForegroundSecondary}"
                                FontSize="14"
                                Margin="0,8,0,0"
                                TextWrapping="Wrap"/>
                     <UniformGrid Columns="2"
                                  Margin="0,22,0,0">
-                        <Border Background="#141922"
-                                BorderBrush="#273142"
+                        <Border Background="{DynamicResource CardBackground}"
+                                BorderBrush="{DynamicResource CardBorder}"
                                 BorderThickness="1"
                                 CornerRadius="8"
                                 Padding="18"
                                 Margin="0,0,12,12">
                             <StackPanel>
                                 <TextBlock Text="Objetivos"
-                                           Foreground="#7DD3FC"
+                                           Foreground="{DynamicResource AccentBrush}"
                                            FontSize="18"
                                            FontWeight="Bold"/>
                                 <TextBlock Text="Organizar componentes por funcion, explicar sus usos principales y ayudar a reconocer datos importantes antes de conectarlos."
-                                           Foreground="#AAB4C3"
+                                           Foreground="{DynamicResource ForegroundSecondary}"
                                            FontSize="13"
                                            Margin="0,8,0,0"
                                            TextWrapping="Wrap"/>
                             </StackPanel>
                         </Border>
-                        <Border Background="#141922"
-                                BorderBrush="#273142"
+                        <Border Background="{DynamicResource CardBackground}"
+                                BorderBrush="{DynamicResource CardBorder}"
                                 BorderThickness="1"
                                 CornerRadius="8"
                                 Padding="18"
                                 Margin="0,0,0,12">
                             <StackPanel>
                                 <TextBlock Text="Funcionamiento"
-                                           Foreground="#A7F3D0"
+                                           Foreground="{DynamicResource AccentBrush}"
                                            FontSize="18"
                                            FontWeight="Bold"/>
                                 <TextBlock Text="El usuario navega por categorias. Cada ficha resume el componente y permite abrir una vista con detalles tecnicos."
-                                           Foreground="#AAB4C3"
+                                           Foreground="{DynamicResource ForegroundSecondary}"
                                            FontSize="13"
                                            Margin="0,8,0,0"
                                            TextWrapping="Wrap"/>
                             </StackPanel>
                         </Border>
-                        <Border Background="#141922"
-                                BorderBrush="#273142"
+                        <Border Background="{DynamicResource CardBackground}"
+                                BorderBrush="{DynamicResource CardBorder}"
                                 BorderThickness="1"
                                 CornerRadius="8"
                                 Padding="18"
                                 Margin="0,0,12,0">
                             <StackPanel>
                                 <TextBlock Text="Mision"
-                                           Foreground="#FDE68A"
+                                           Foreground="{DynamicResource AccentBrush}"
                                            FontSize="18"
                                            FontWeight="Bold"/>
                                 <TextBlock Text="Facilitar el aprendizaje de electronica basica con informacion clara, ordenada y util para practicas de laboratorio."
-                                           Foreground="#AAB4C3"
+                                           Foreground="{DynamicResource ForegroundSecondary}"
                                            FontSize="13"
                                            Margin="0,8,0,0"
                                            TextWrapping="Wrap"/>
                             </StackPanel>
                         </Border>
-                        <Border Background="#141922"
-                                BorderBrush="#273142"
+                        <Border Background="{DynamicResource CardBackground}"
+                                BorderBrush="{DynamicResource CardBorder}"
                                 BorderThickness="1"
                                 CornerRadius="8"
                                 Padding="18">
                             <StackPanel>
                                 <TextBlock Text="Vision"
-                                           Foreground="#C4B5FD"
+                                           Foreground="{DynamicResource AccentBrush}"
                                            FontSize="18"
                                            FontWeight="Bold"/>
                                 <TextBlock Text="Convertirse en una mini wiki academica donde cualquier estudiante pueda consultar componentes de forma rapida e intuitiva."
-                                           Foreground="#AAB4C3"
+                                           Foreground="{DynamicResource ForegroundSecondary}"
                                            FontSize="13"
                                            Margin="0,8,0,0"
                                            TextWrapping="Wrap"/>

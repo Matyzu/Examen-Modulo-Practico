@@ -12,6 +12,8 @@ namespace Examen_Modulo_Practico_2
         public Inicio()
         {
             InitializeComponent();
+            // ensure initial theme is dark (as App.xaml merged DarkTheme by default)
+            ThemeManager.ApplyTheme("Dark");
         }
 
         private void Pasivos_Click(object sender, RoutedEventArgs e)
@@ -188,6 +190,16 @@ namespace Examen_Modulo_Practico_2
 
             SearchResultsList.SelectedItem = null;
             SearchPopup.IsOpen = false;
+        }
+
+        private void ThemeToggle_Checked(object sender, RoutedEventArgs e)
+        {
+            ThemeManager.ApplyTheme("Light");
+        }
+
+        private void ThemeToggle_Unchecked(object sender, RoutedEventArgs e)
+        {
+            ThemeManager.ApplyTheme("Dark");
         }
     }
 }

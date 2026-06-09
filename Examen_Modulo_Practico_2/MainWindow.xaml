@@ -58,18 +58,18 @@
         </Grid.ColumnDefinitions>
 
         <Border x:Name="PanelLateral"
-                Background="#171A21"
-                BorderBrush="#252B36"
+                Background="{DynamicResource CardBackground}"
+                BorderBrush="{DynamicResource CardBorder}"
                 BorderThickness="0,0,1,0">
             <DockPanel>
                 <StackPanel DockPanel.Dock="Top" Margin="18,24,18,18">
                     <TextBlock Text="Component Explorer"
-                               Foreground="White"
+                               Foreground="{DynamicResource ForegroundPrimary}"
                                FontSize="23"
                                FontWeight="Bold"
                                TextWrapping="Wrap"/>
                     <TextBlock Text="Wiki de componentes electronicos"
-                               Foreground="#8D99AA"
+                               Foreground="{DynamicResource ForegroundSecondary}"
                                FontSize="13"
                                Margin="0,6,0,20"
                                TextWrapping="Wrap"/>
@@ -106,11 +106,11 @@
                         Margin="18"
                         Padding="14"
                         CornerRadius="10"
-                        Background="#11141A"
-                        BorderBrush="#252B36"
+                        Background="{DynamicResource PanelBackground}"
+                        BorderBrush="{DynamicResource CardBorder}"
                         BorderThickness="1">
                     <TextBlock Text="Examen final - Modulo practico"
-                               Foreground="#8D99AA"
+                               Foreground="{DynamicResource ForegroundSecondary}"
                                FontSize="12"
                                TextWrapping="Wrap"/>
                 </Border>
@@ -119,7 +119,7 @@
 
         <Frame x:Name="MainFrame"
                Grid.Column="1"
-               Background="#101216"
+               Background="{DynamicResource WindowBackground}"
                NavigationUIVisibility="Hidden"/>
     </Grid>
 </Window>

@@ -5,7 +5,7 @@
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
       mc:Ignorable="d"
       Title="Pasivos"
-      Background="#101216">
+      Background="{DynamicResource WindowBackground}">
     <Page.Resources>
         <Style x:Key="ComponentCardStyle" TargetType="Border">
             <Setter Property="Width" Value="292"/>
@@ -28,12 +28,12 @@
     <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled">
         <StackPanel Margin="34">
             <TextBlock Text="Componentes pasivos"
-                       Foreground="White"
+                       Foreground="{DynamicResource ForegroundPrimary}"
                        FontSize="34"
                        FontWeight="Bold"
                        TextWrapping="Wrap"/>
             <TextBlock Text="Elementos que no amplifican ni generan energia. Se usan para controlar, almacenar, filtrar o proteger señales en un circuito."
-                       Foreground="#AAB4C3"
+                       Foreground="{DynamicResource ForegroundSecondary}"
                        FontSize="15"
                        Margin="0,8,0,26"
                        TextWrapping="Wrap"/>
@@ -61,18 +61,18 @@
                                     <Image Source="{Binding ImagePath}" Stretch="UniformToFill"/>
                                 </Border>
                                 <StackPanel Margin="16">
-                                    <TextBlock Text="{Binding Name}" Foreground="#7DD3FC" FontSize="20" FontWeight="Bold" TextWrapping="Wrap"/>
-                                    <TextBlock Text="{Binding Category}" Foreground="#8D99AA" FontSize="12" FontWeight="SemiBold" Margin="0,3,0,10"/>
-                                    <TextBlock Text="{Binding Description}" Foreground="#DDE6F3" FontSize="13" TextWrapping="Wrap" MaxHeight="40"/>
-                                    <Border Background="#101722" BorderBrush="#283242" BorderThickness="1" CornerRadius="8" Padding="10,8" Margin="0,12,0,0">
-                                        <TextBlock Text="{Binding KeyData}" Foreground="#AAB4C3" FontSize="12.5" TextWrapping="Wrap" MaxHeight="36"/>
+                                    <TextBlock Text="{Binding Name}" Foreground="{DynamicResource AccentBrush}" FontSize="20" FontWeight="Bold" TextWrapping="Wrap"/>
+                                    <TextBlock Text="{Binding Category}" Foreground="{DynamicResource ForegroundSecondary}" FontSize="12" FontWeight="SemiBold" Margin="0,3,0,10"/>
+                                    <TextBlock Text="{Binding Description}" Foreground="{DynamicResource ForegroundPrimary}" FontSize="13" TextWrapping="Wrap" MaxHeight="40"/>
+                                    <Border Background="{DynamicResource PanelBackground}" BorderBrush="{DynamicResource CardBorder}" BorderThickness="1" CornerRadius="8" Padding="10,8" Margin="0,12,0,0">
+                                        <TextBlock Text="{Binding KeyData}" Foreground="{DynamicResource ForegroundSecondary}" FontSize="12.5" TextWrapping="Wrap" MaxHeight="36"/>
                                     </Border>
                                     <Button Content="Ver ficha tecnica"
                                             Tag="{Binding}"
                                             Click="Details_Click"
-                                            Background="#1E2632"
-                                            Foreground="White"
-                                            BorderBrush="#3B82F6"
+                                            Background="{DynamicResource CardHoverBackground}"
+                                            Foreground="{DynamicResource ForegroundPrimary}"
+                                            BorderBrush="{DynamicResource CardHoverBorder}"
                                             BorderThickness="1"
                                             Cursor="Hand"
                                             Padding="12,8"

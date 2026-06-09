@@ -345,3 +345,7 @@ C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Mod
 C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Transistor BJT PNP.jpg
 C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Trimmer.jpg
 C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\bin\Debug\net10.0-windows\Simulacion\Sensor ultrasonico HC-SR04.jpg
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Themes\DarkTheme.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Themes\LightTheme.baml
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\Examen_Modulo_Practico_2_MarkupCompile.lref
+C:\Users\USER-ASUS\Proyectos\VS Proyects\Mio\Examen_Modulo_Practico_2\Examen_Modulo_Practico_2\obj\Debug\net10.0-windows\App.baml
